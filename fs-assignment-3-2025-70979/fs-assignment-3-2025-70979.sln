@@ -1,9 +1,39 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthApp.Domain", "HealthApp.Domain\HealthApp.Domain.csproj", "{000033B5-E5D9-428A-96E1-61EFF2BC7046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthApp.Razor", "HealthApp.Razor\HealthApp.Razor.csproj", "{388CE3F1-7AB5-476D-926B-E89DD63135F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthApp.API", "HealthApp.API\HealthApp.API.csproj", "{F9AD08F9-48AF-489D-B421-D6ED32567056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthApp.Tests", "HealthApp.Tests\HealthApp.Tests.csproj", "{C0E6FC64-2BAC-499C-A6B4-DB45C84E0A16}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000033B5-E5D9-428A-96E1-61EFF2BC7046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000033B5-E5D9-428A-96E1-61EFF2BC7046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000033B5-E5D9-428A-96E1-61EFF2BC7046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000033B5-E5D9-428A-96E1-61EFF2BC7046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388CE3F1-7AB5-476D-926B-E89DD63135F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388CE3F1-7AB5-476D-926B-E89DD63135F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388CE3F1-7AB5-476D-926B-E89DD63135F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388CE3F1-7AB5-476D-926B-E89DD63135F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AD08F9-48AF-489D-B421-D6ED32567056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AD08F9-48AF-489D-B421-D6ED32567056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AD08F9-48AF-489D-B421-D6ED32567056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AD08F9-48AF-489D-B421-D6ED32567056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E6FC64-2BAC-499C-A6B4-DB45C84E0A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E6FC64-2BAC-499C-A6B4-DB45C84E0A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E6FC64-2BAC-499C-A6B4-DB45C84E0A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E6FC64-2BAC-499C-A6B4-DB45C84E0A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

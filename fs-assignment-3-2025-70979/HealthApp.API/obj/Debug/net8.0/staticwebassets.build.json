@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vAZ/qgtcJjrPiDmEcPYvf6SUuOK3RQEIY+gJ6UI1MeM=",
+  "Source": "HealthApp.API",
+  "BasePath": "_content/HealthApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

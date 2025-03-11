@@ -1,0 +1,12 @@
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.deps.json
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.dll
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\bin\Debug\net8.0\HealthApp.Domain.pdb
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.AssemblyInfoInputs.cache
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.AssemblyInfo.cs
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.sourcelink.json
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.dll
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\refint\HealthApp.Domain.dll
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\HealthApp.Domain.pdb
+C:\Users\rebec\Desktop\fs-assignment-3-2025-70979\fs-assignment-3-2025-70979\HealthApp.Domain\obj\Debug\net8.0\ref\HealthApp.Domain.dll
