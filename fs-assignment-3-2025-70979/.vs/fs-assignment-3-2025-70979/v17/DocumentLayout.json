@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rebec\\Desktop\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{388CE3F1-7AB5-476D-926B-E89DD63135F1}|HealthApp.Razor\\HealthApp.Razor.csproj|c:\\users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\healthapp.razor\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388CE3F1-7AB5-476D-926B-E89DD63135F1}|HealthApp.Razor\\HealthApp.Razor.csproj|solutionrelative:healthapp.razor\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Razor\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "HealthApp.Razor\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Razor\\Data\\SeedData.cs",
+              "RelativeToolTip": "HealthApp.Razor\\Data\\SeedData.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:31:10.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

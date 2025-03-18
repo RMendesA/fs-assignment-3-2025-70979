@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\Desktop\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj": {}
+    "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\Desktop\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj": {
+    "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\Desktop\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj",
         "projectName": "HealthApp.Domain",
-        "projectPath": "C:\\Users\\rebec\\Desktop\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj",
+        "projectPath": "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\HealthApp.Domain.csproj",
         "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\Desktop\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\rebec\\source\\repos\\fs-assignment-3-2025-70979\\fs-assignment-3-2025-70979\\HealthApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.61.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

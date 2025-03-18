@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthApp.Razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85af81a2af6fed02861d36496f36ddcad117493e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7efbab3a4ed339d49fd814d4947627e27182d44")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthApp.Razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthApp.Razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

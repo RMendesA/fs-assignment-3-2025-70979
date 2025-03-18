@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using HealthApp.Domain;
 using HealthApp.Razor.Data;
+using HealthApp.Domain.Entities;
 
 namespace HealthApp.Razor.Pages
 {

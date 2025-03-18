@@ -28,13 +28,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HealthApp.Razor.3tg8kv1rh1.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3tg8kv1rh1"},{"Name":"integrity","Value":"sha256-6bjaPkguUeXB\u002BvYt\u002B\u002BERf5UvYeAtH7CLhUtxGaKc60U="},{"Name":"label","Value":"_content/HealthApp.Razor/HealthApp.Razor.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226bjaPkguUeXB\u002BvYt\u002B\u002BERf5UvYeAtH7CLhUtxGaKc60U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 13:49:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226bjaPkguUeXB\u002BvYt\u002B\u002BERf5UvYeAtH7CLhUtxGaKc60U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 15:26:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HealthApp.Razor/HealthApp.Razor.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HealthApp.Razor.3tg8kv1rh1.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6bjaPkguUeXB\u002BvYt\u002B\u002BERf5UvYeAtH7CLhUtxGaKc60U="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226bjaPkguUeXB\u002BvYt\u002B\u002BERf5UvYeAtH7CLhUtxGaKc60U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 13:49:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226bjaPkguUeXB\u002BvYt\u002B\u002BERf5UvYeAtH7CLhUtxGaKc60U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 15:26:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HealthApp.Razor/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
